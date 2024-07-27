@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935345496335",
+    "firebase_url": "https://irisfirebaseexample-default-rtdb.firebaseio.com",
+    "project_id": "irisfirebaseexample",
+    "storage_bucket": "irisfirebaseexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935345496335:android:af4175cf0763b638de1e7a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1lZfpPUWYdJy-AELUydUjCdbb99vAj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
